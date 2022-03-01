@@ -1,4 +1,4 @@
-# Documentation for Project 0x01-git (Pre-course)
+# Documentation for Project 0x03-git
 
 **This file is mandatory in all ALX School projects**
 
